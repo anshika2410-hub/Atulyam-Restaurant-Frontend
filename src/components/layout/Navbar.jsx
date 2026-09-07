@@ -166,7 +166,7 @@ export const Navbar = () => {
               })}
 
               <div className="pt-4 mt-2 border-t border-white/10 flex flex-col gap-3">
-                <Link to="/order" className="w-full">
+                <Link to="/order-online" className="w-full">
                   <Button variant="primary" size="md" className="w-full">
                     Order Online
                   </Button>
