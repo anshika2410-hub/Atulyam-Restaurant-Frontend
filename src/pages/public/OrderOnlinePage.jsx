@@ -621,45 +621,7 @@ const OrderOnlinePage = () => {
       {/* =========================================================
           STATEMENT
       ========================================================= */}
-      <section className="relative bg-[#0b0b0b]">
 
-        <div className="max-w-[1400px] mx-auto px-6 md:px-10 py-24 md:py-36">
-
-          <div className="grid md:grid-cols-12 gap-12">
-
-            <div className="md:col-span-8">
-
-              <span className="text-white/25 text-[9px] uppercase tracking-[0.3em]">
-                The Atulyam Way
-              </span>
-
-              <h2 className="font-serif text-5xl md:text-7xl lg:text-[7vw] leading-[0.9] tracking-[-0.06em] mt-6">
-                Your table.
-                <br />
-                Your people.
-                <br />
-                <span className="italic text-[#f28a2e]">
-                  Your moment.
-                </span>
-              </h2>
-
-            </div>
-
-            <div className="md:col-span-4 md:flex md:items-end">
-
-              <p className="text-white/40 text-sm md:text-[15px] leading-7 max-w-md">
-                Whether you're dining with family, meeting friends
-                or simply treating yourself, Atulyam brings
-                something special to every table.
-              </p>
-
-            </div>
-
-          </div>
-
-        </div>
-
-      </section>
 
 
       {/* =========================================================
